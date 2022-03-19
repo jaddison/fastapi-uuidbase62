@@ -9,6 +9,6 @@ setup(name='fastapi-uuidbase62',
       author_email='addi00@gmail.com',
       url='',
       packages=['uuidbase62'],
-      python_requires='>=3.6, <4',
+      python_requires='>=3.7, <4',
       install_requires=['fastapi']
       )
